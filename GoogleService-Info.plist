@@ -7,34 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>135410321404-cs7me341b2r8jsqbgllr26gcoqgordqp.apps.googleusercontent.com</string>
+	<string>232021564009-8qlduurtorabqs1c84rv1i2as2st8r66.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.135410321404-cs7me341b2r8jsqbgllr26gcoqgordqp</string>
+	<string>com.googleusercontent.apps.232021564009-8qlduurtorabqs1c84rv1i2as2st8r66</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCSZgCayLFJx5E-6J9tVge7x7ViasP8CIQ</string>
+	<string>AIzaSyCn3hs9xehUDOeL38ZyzsiK7T_7khGch0U</string>
 	<key>GCM_SENDER_ID</key>
-	<string>135410321404</string>
+	<string>232021564009</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.dl.sdccards</string>
+	<string>com.dl.tobh</string>
 	<key>PROJECT_ID</key>
-	<string>sdc-cards</string>
+	<string>tobh-app</string>
 	<key>STORAGE_BUCKET</key>
-	<string>sdc-cards.appspot.com</string>
+	<string>tobh-app.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false/>
+	<false></false>
 	<key>IS_APPINVITE_ENABLED</key>
-	<true/>
+	<false></false>
 	<key>IS_GCM_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true/>
+	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:135410321404:ios:f9dff1d936f1b5c5</string>
+	<string>1:232021564009:ios:c177d5ece91121e1</string>
 	<key>DATABASE_URL</key>
-	<string>https://sdc-cards.firebaseio.com</string>
+	<string>https://tobh-app.firebaseio.com</string>
 </dict>
 </plist>
